@@ -1,0 +1,6 @@
+{
+  "name": "Flight Weather Briefing",
+  "description": "Flight weather briefing tool reproducing the W (WEATHER) training form with METAR, TAF, and model forecasts for departure, alternates, and destination aerodromes.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
